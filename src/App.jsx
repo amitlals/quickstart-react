@@ -167,7 +167,7 @@ const PleaseSetYourPublicKeyMessage = () => {
 const ReturnToDocsLink = () => {
   return (
     <a
-      href="https://docs.vapi.ai"
+      href="https://ml.azure.com/"
       target="_blank"
       rel="noopener noreferrer"
       style={{
@@ -181,7 +181,7 @@ const ReturnToDocsLink = () => {
         boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
       }}
     >
-      return to docs
+      Developed by Amit Lal on AzureML
     </a>
   );
 };
